@@ -1,0 +1,27 @@
+body {
+  
+}
+.main-container {
+  width: 100%;
+  margin-left: 12vw;
+  margin-top: 10vh;
+}
+.row {
+  background-color: rgba(188, 192, 211, 0.733);
+  width: 80vw;
+  margin: 0 auto;
+ 
+}
+.primary-heading-container {
+  width: 100%;
+  text-align: center;
+}
+
+.show-student-subject {
+  background-color: rgba(188, 192, 211, 0.733);
+}
+.student_paragraph {
+  text-align: center;
+  font-size: 18px;
+}
+
